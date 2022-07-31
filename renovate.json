@@ -1,0 +1,8 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "local>netlify-templates/renovate-config"
+  ]
+}
+Footer
+© 2022 GitHub, Inc.
